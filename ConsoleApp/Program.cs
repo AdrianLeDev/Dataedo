@@ -12,7 +12,8 @@
         static void Main(string[] args)
         {
             var reader = new DataReader();
-            reader.ImportAndPrintData("dataa.csv");
+            reader.ImportAndPrintData("data.csv");
+
         }
     }
 }
